@@ -1,0 +1,8 @@
+{"time":"2025-03-17T19:36:58.567552+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/jaebincheong/YBIGTA/25-1_sessions/Week1/25-1-DS-Week-1-Assignment/wandb/run-20250317_193658-epl2wuk1/logs/debug-core.log"}
+{"time":"2025-03-17T19:36:58.676986+09:00","level":"INFO","msg":"created new stream","id":"epl2wuk1"}
+{"time":"2025-03-17T19:36:58.677028+09:00","level":"INFO","msg":"stream: started","id":"epl2wuk1"}
+{"time":"2025-03-17T19:36:58.677075+09:00","level":"INFO","msg":"handler: started","stream_id":"epl2wuk1"}
+{"time":"2025-03-17T19:36:58.677312+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"epl2wuk1"}
+{"time":"2025-03-17T19:36:58.677327+09:00","level":"INFO","msg":"sender: started","stream_id":"epl2wuk1"}
+{"time":"2025-03-17T19:36:59.268195+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:37:00.289533+09:00","level":"INFO","msg":"Pausing system monitor"}

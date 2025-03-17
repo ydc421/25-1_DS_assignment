@@ -1,0 +1,8 @@
+{"time":"2025-03-17T19:54:27.798499+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/jaebincheong/YBIGTA/25-1_sessions/Week1/25-1-DS-Week-1-Assignment/wandb/run-20250317_195427-cxalawax/logs/debug-core.log"}
+{"time":"2025-03-17T19:54:27.913159+09:00","level":"INFO","msg":"created new stream","id":"cxalawax"}
+{"time":"2025-03-17T19:54:27.91409+09:00","level":"INFO","msg":"stream: started","id":"cxalawax"}
+{"time":"2025-03-17T19:54:27.914626+09:00","level":"INFO","msg":"handler: started","stream_id":"cxalawax"}
+{"time":"2025-03-17T19:54:27.914903+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"cxalawax"}
+{"time":"2025-03-17T19:54:27.914962+09:00","level":"INFO","msg":"sender: started","stream_id":"cxalawax"}
+{"time":"2025-03-17T19:54:28.24415+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:54:29.133183+09:00","level":"INFO","msg":"Pausing system monitor"}
